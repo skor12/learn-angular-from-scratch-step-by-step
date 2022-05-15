@@ -3,9 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,
-  api_url: 'https://q-a-example-loopback-api.herokuapp.com'
+ production: false,
+ api_url: 'http://localhost:3000'
 };
+
 
 /*
  * For easier debugging in development mode, you can import the following file
